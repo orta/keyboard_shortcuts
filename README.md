@@ -61,6 +61,6 @@ Command + g - Find the next whatever, repeat to move to next.
 
 Other Keyboard Shortcuts:
 
-- [Chrome][chrome.md]
-- [Slack][slack.md]
-- [Advanced Windows][advanced-windows.md]
+- [Chrome](chrome.md)
+- [Slack](slack.md)
+- [Advanced Windows](advanced-windows.md)
