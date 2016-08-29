@@ -60,6 +60,12 @@ Command + Tab - Application selector, I hold command and press left / right. You
 Command + ` - Switch between windows in the current application
 ```
 
+### Taking a Screenshot
+
+Pressing `Command + Shift + 4` will turn your mouse into a crosshair. Clicking and dragging will take a screenshot of whatever is
+inside the rectangle that appears. If you are planning on taking a picture of a window, press `Spacebar` and it turns into a camera
+which highlights the window your mouse is over.
+
 ### Document Management
 
 ```
@@ -98,3 +104,4 @@ Things to note:
 - [Slack](slack.md)
 - [Advanced Windows](advanced-windows.md)
 - [Clipboard History](clipboard-history.md)
+- [Recent Files](recent-files.md)
