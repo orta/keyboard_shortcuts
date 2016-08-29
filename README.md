@@ -41,9 +41,11 @@ Command + c - Copy
 Command + v - Paste
 
 Alt + Left / right - Jump between words.
-Apple + Left / Right - Jump to the ends of the line.
-Apple + Delete - Delete all the words till it hits the left edge.
+Command + Left / Right - Jump to the ends of the line.
+Command + Delete - Delete all the words till it hits the left edge.
 ``` 
+
+Holding shift during those commands will expand the selection during that jump.
 
 ### Operating System:
 
@@ -55,7 +57,6 @@ Command + Space - Spotlight Search, then up / down and enter to select.
 Command + Tab - Application selector, I hold command and press left / right. You can tap Q on an app to close it from here.
 Command + ` - Switch between windows in the current application
 ```
-
 
 ### Document Management
 
