@@ -8,7 +8,19 @@ The Mac has a standard set of keyboard shortcuts, that are generally consistent 
 are they consistent across apps, but websites try to be consistent with those too. So a lot of the commands
 you learn for your Mac will work in Google Docs for example.  
 
-So let's start off by looking at the computer:
+So let's start off by looking at the most useful key command of all time. `Command + Shift + ?`.
+
+![images/search.png](images/search.png)
+
+You can then start typing to find the menu item you want.
+
+![images/search-scope.png](images/search-scope.png)
+
+This also works in Google Docs! Though the command is a little different `Option + /`
+
+![images/search-docs.png](images/search-docs.png)
+
+Once you have that down, you can slowly memorize individual bits.
 
 ###Window Management
 
@@ -64,3 +76,4 @@ Other Keyboard Shortcuts:
 - [Chrome](chrome.md)
 - [Slack](slack.md)
 - [Advanced Windows](advanced-windows.md)
+- [Clipboard History](clipboard-history.md)
