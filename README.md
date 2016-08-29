@@ -39,6 +39,8 @@ Note that `Command + w` is not Quit, which is `Command + q`. This will close one
 ```
 Command + c - Copy
 Command + v - Paste
+Command + z - Undo
+Command + Shift + z - Redo
 
 Alt + Left / right - Jump between words.
 Command + Left / Right - Jump to the ends of the line.
@@ -72,7 +74,25 @@ Command + Shift + e - Throw selected text into replace.
 Command + g - Find the next whatever, repeat to move to next.
 ```
 
-Other Keyboard Shortcuts:
+### Searching your Mac
+
+If you want to open an app, or access a file, Spotlight is a great way to do it:
+
+Press `Command + Space`:
+
+![images/spotlight-before.png](images/spotlight-before.png)
+
+You can then start typing:
+
+![images/spotlight-after.png](images/spotlight-after.png)
+
+Things to note:
+
+* You can use this for files
+* If you use this for an app, the most recent documents are in the right half. Press tab to jump to them.
+* I use this for the [dictionary all the time](images/spotlight-extra.png)
+
+# Other Keyboard Shortcuts:
 
 - [Chrome](chrome.md)
 - [Slack](slack.md)
